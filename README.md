@@ -15,8 +15,7 @@ Este proyecto amplía un servidor web existente, que actualmente soporta archivo
 
 **1. Clona el Repositorio:**
 
-        git clone https://github.com/tu_usuario/tu_repositorio.git 
-
+        git clone https://github.com/sebastian2929/AREP_LAB02.git
 **2. Construye el Proyecto:** Asegúrate de tener Maven instalado. Luego, ejecuta:
 
         mvn exec:java
